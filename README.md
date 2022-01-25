@@ -1,0 +1,3 @@
+- 👋 Hi, I’m stephie
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently learning python
